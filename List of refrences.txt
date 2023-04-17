@@ -1,3 +1,5 @@
+Abdelalim, A., O'brien, W. and Shi, Z. (2017). Data visualization and analysis of energy flow on a multi-zone building scale. Automation in Construction, 84, pp. 258-273.
+Abdelrahman, M. M. and C. Miller (2022). Targeting occupant feedback using digital twins: Adaptive spatial-temporal thermal preference sampling to optimize personal comfort models. Building and Environment, 218, pp. 13.
 Abrol, S., Mehmani, A., Kerman, M., Meinrenken, C. and Culligan, P., (2018). Data-Enabled Building Energy Savings (D-E BES). Proceedings of the Ieee, 106(4), pp. 661-679.
 Agostinelli, S., Cumo, F., Guidi, G. and Tomazzoli, C., (2021). Cyber-Physical Systems Improving Building Energy Management: Digital Twin and Artificial Intelligence. Energies, 14(8), pp. 25.
 Agostinelli, S., Cumo, F., Nezhad, M. M., Orsini G. and Piras, G., (2022). Renewable Energy System Controlled by Open-Source Tools and Digital Twin Model: Zero Energy Port Area in Italy. Energies, 15(5), pp. 24.
